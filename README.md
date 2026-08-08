@@ -1,4 +1,4 @@
-# PITFALL2600
+# Pitfall 2600 C++ OpenGL Recreation
 
 PITFALL2600 is an independent C++ and OpenGL game project inspired by **Pitfall!**, the classic Activision platform game designed by David Crane for the Atari 2600 in 1982.
 
@@ -58,4 +58,3 @@ The project uses OpenGL and GLUT-style APIs and may require compatible legacy de
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
